@@ -1,2 +1,4 @@
 # cifar_cnn
-This is my first neural network
+文件说明
+  数据集 来自CIFA10
+
